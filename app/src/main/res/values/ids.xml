@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etREmail" type="id" />
+    <item name="etRPassword" type="id" />
+    <item name="etRCPassword" type="id" />
+    <item name="etPhone" type="id" />
+    <item name="etAddress" type="id" />
+    <item name="etAddress1" type="id" />
+    <item name="etAddress2" type="id" />
+    <item name="cb1" type="id" />
+    <item name="cb2" type="id" />
+    <item name="cb3" type="id" />
+    <item name="imgProfile" type="id" />
+    <item name="btnRregister" type="id" />
+</resources>

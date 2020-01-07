@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TermsTwo"></activity>
+        <activity android:name=".Signup"></activity>
+        <activity android:name=".LoginPage" />
+        <activity android:name=".TermsTwo" />
         <activity android:name=".Terms" />
         <activity android:name=".SplashActivity" />
         <activity android:name=".MainActivity">
